@@ -1,0 +1,13 @@
+// assignment_1
+Q1:Assign 5 subjects marks and calculate sum,avg,percentage //done
+Q2. Write a program to calculate area of rectangle based on length and breadth. //done
+Q3. If area of room is 144 sq m. Then how many tiles of size 12*12 will be required to cover the flooring of room. //done
+Q4. Convert temp from Celsius to Fahrenheit. (C/5 = (F-32)/9) //done
+Q5. Convert distant given in feet and inches into meter and centimeter. //done
+Q6. WAP to calculate area of triangle and rectangle //done
+Q7. WAP to calculate selling price of book based on cost price and discount. //done
+Q8. WAP to calculate total salary of employee based on basic, da=10% of basic, ta=12% of basic, hra=15% of basic. //done
+Q9. Find the sum of three digit number. //done
+Q10. Assign two number and swap it using third variable. //done
+Q11. Assign two number and swap it without using third variable. //done
+ 

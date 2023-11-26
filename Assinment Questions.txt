@@ -1,0 +1,53 @@
+// assignment_1
+Q1:Assign 5 subjects marks and calculate sum,avg,percentage //done
+Q2. Write a program to calculate area of rectangle based on length and breadth. //done
+Q3. If area of room is 144 sq m. Then how many tiles of size 12*12 will be required to cover the flooring of room. //done
+Q4. Convert temp from Celsius to Fahrenheit. (C/5 = (F-32)/9) //done
+Q5. Convert distant given in feet and inches into meter and centimeter. //done
+Q6. WAP to calculate area of triangle and rectangle //done
+Q7. WAP to calculate selling price of book based on cost price and discount. //done
+Q8. WAP to calculate total salary of employee based on basic, da=10% of basic, ta=12% of basic, hra=15% of basic. //done
+Q9. Find the sum of three digit number. //done
+Q10. Assign two number and swap it using third variable. //done
+Q11. Assign two number and swap it without using third variable. //done
+ 
+
+ // assignment_2 using if else
+ Q1:Assign a character and check it is vowel or consonant?
+Q2:Assign a number and check it is divisible by 5 or not?
+Q3:Assign 3 number and check which number is smallest number?
+Q4:Assign a year and check it is leap year or not?
+Q5:Assign 5 subject marks,calculate sum ,avg, percentage,if percentage>90 then display "Out Standing",if percentage<90 and percentage>80 then display "Excellent",if percentage<80 and percentage>70 then display "Very Good",if percentage<70 and percentage>60 then display "Good", otherwise display "Fair"
+
+Q6:Assign value and check it is eqiletral triangle ot not?
+Q7:Assign value and check it is valid triangle or not?
+Q8:Assign Employee basic salary and check if employee have worked more than 5 years then give 10% bonus and calcuate total salary.
+Q9:Assign a number and it is +ve or -ve?
+Q10:Assign user id and password and check it is correct user id and password or not?
+Q11:Write a menu driven program
+	1.Addition
+	2.Subtraction
+	3.Multiplication
+	4.Division
+
+Q12:Assign a week number and display week day name?
+Q13:Assign a month number and display month name?
+Q14:Assign a character and display Color name?
+
+
+// assignment_3 using switch
+Q1:Accept a month number and display month name?
+Q2:Accept a character and display week day name?
+Q3:Accept TV Category like (B or C),if B then accept cost price and give 10% discount and calculate selling price.If C then accept inches,if inches 32 then accept cost price and give 15% discount and calculate selling price.if inches 55 then accept cost price and give 20% discount and calculate selling price.
+Q4:Accept a character and display month name?
+Q5:Write a calculator program
+	1.Addition
+	2.Subtraction
+	3.Multiplication
+	4.Division
+
+
+// assignment_4 using ternary operator
+Q1:Accept a year and check it it leap year or not?
+Q2:Accept 3 numbers and check which 1 is smallest number?
+Q3:Accept 3 subjects marks calculate sum avg,if avg>90 then display "Outstanding",if avg<90 and avg>80 then display "Excellent",if avg<80 and avg>70 then display "Very Good"
