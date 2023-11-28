@@ -1,0 +1,21 @@
+// assignment_2 using if else
+Q1:Assign a character and check it is vowel or consonant? //done
+Q2:Assign a number and check it is divisible by 5 or not? //done
+Q3:Assign 3 number and check which number is smallest number? //done
+Q4:Assign a year and check it is leap year or not? //done
+Q5:Assign 5 subject marks,calculate sum ,avg, percentage,if percentage>90 then display "Out Standing",if percentage<90 and percentage>80 then display "Excellent",if percentage<80 and percentage>70 then display "Very Good",if percentage<70 and percentage>60 then display "Good", otherwise display "Fair"
+
+Q6:Assign value and check it is eqiletral triangle ot not?
+Q7:Assign value and check it is valid triangle or not?
+Q8:Assign Employee basic salary and check if employee have worked more than 5 years then give 10% bonus and calcuate total salary.
+Q9:Assign a number and it is +ve or -ve?
+Q10:Assign user id and password and check it is correct user id and password or not?
+Q11:Write a menu driven program
+	1.Addition
+	2.Subtraction
+	3.Multiplication
+	4.Division
+
+Q12:Assign a week number and display week day name?
+Q13:Assign a month number and display month name?
+Q14:Assign a character and display Color name?

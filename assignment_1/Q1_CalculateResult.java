@@ -1,8 +1,7 @@
 class CalculateResult {
     public static void main(String args[]) {
         int math, phy, chem, bio, eng, total;
-        double avg, percent;
-
+        double avg, percent; 
         math = 89;
         eng = 90;
         phy = 78;

@@ -12,9 +12,9 @@ Q10. Assign two number and swap it using third variable. //done
 Q11. Assign two number and swap it without using third variable. //done
  
 
- // assignment_2 using if else
- Q1:Assign a character and check it is vowel or consonant?
-Q2:Assign a number and check it is divisible by 5 or not?
+// assignment_2 using if else
+Q1:Assign a character and check it is vowel or consonant? //done
+Q2:Assign a number and check it is divisible by 5 or not? //done
 Q3:Assign 3 number and check which number is smallest number?
 Q4:Assign a year and check it is leap year or not?
 Q5:Assign 5 subject marks,calculate sum ,avg, percentage,if percentage>90 then display "Out Standing",if percentage<90 and percentage>80 then display "Excellent",if percentage<80 and percentage>70 then display "Very Good",if percentage<70 and percentage>60 then display "Good", otherwise display "Fair"
