@@ -1,5 +1,3 @@
-package assignment_2;
-
 class vowal_or_consonant {
 
   public static void main(String args[]) {

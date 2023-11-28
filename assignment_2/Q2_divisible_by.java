@@ -1,5 +1,3 @@
-package assignment_2;
-
 public class Q2_divisible_by {
 
   public static void main(String args[]) {

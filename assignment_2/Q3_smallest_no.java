@@ -1,5 +1,3 @@
-package assignment_2;
-
 public class Q3_smallest_no {
 
   public static void main(String args[]) {

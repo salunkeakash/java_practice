@@ -1,5 +1,3 @@
-package assignment_2;
-
 public class Q4_check_leap_year {
 
   public static void main(String args[]) {
