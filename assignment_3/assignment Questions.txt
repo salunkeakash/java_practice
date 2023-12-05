@@ -1,0 +1,10 @@
+// assignment_3 using switch
+Q1:Accept a month number and display month name?
+Q2:Accept a character and display week day name?
+Q3:Accept TV Category like (B or C),if B then accept cost price and give 10% discount and calculate selling price.If C then accept inches,if inches 32 then accept cost price and give 15% discount and calculate selling price.if inches 55 then accept cost price and give 20% discount and calculate selling price.
+Q4:Accept a character and display month name?
+Q5:Write a calculator program
+	1.Addition
+	2.Subtraction
+	3.Multiplication
+	4.Division

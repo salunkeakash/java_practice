@@ -1,0 +1,4 @@
+// assignment_4 using ternary operator
+Q1:Accept a year and check it it leap year or not? //done
+Q2:Accept 3 numbers and check which 1 is smallest number? //done
+Q3:Accept 3 subjects marks calculate sum avg,if avg>90 then display "Outstanding",if avg<90 and avg>80 then display "Excellent",if avg<80 and avg>70 then display "Very Good" //done
