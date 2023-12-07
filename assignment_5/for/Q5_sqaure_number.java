@@ -1,0 +1,9 @@
+public class Q5_sqaure_number {
+
+  public static void main(String args[]) {
+    for (int i = 0; i < 10; i++) {
+      double z = i * i;
+      System.out.println(z);
+    }
+  }
+}

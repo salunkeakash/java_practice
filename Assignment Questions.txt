@@ -51,3 +51,19 @@ Q5:Write a calculator program
 Q1:Accept a year and check it it leap year or not? //done
 Q2:Accept 3 numbers and check which 1 is smallest number? //done
 Q3:Accept 3 subjects marks calculate sum avg,if avg>90 then display "Outstanding",if avg<90 and avg>80 then display "Excellent",if avg<80 and avg>70 then display "Very Good" //done
+
+
+// assignment_5 loops
+Q1: Display all even number between 1 to 10 ? //done
+Q2: Display all odd number between 1 to 10 ? //done
+Q3: Display a series (1 4 3 6 8 .... 20) //done
+Q4: Display fibonnaci series (1 1 2 3 5 8 13 .. 100) //done
+Q5: calcuate the sqaure of number between 1 to 10  //done
+Q6: calcuate the cube on number between 1 to 10 //done
+Q7: write a program of table 5 //done
+Q8: Assign a number and display in a reverse order ? //done
+Q9: Assign a number and check it is pallendrome number or not ? //done
+Q10: Assign a number and check it is armstrong number or not ? //done
+Q11: Assign a number and check it is prime number ? //done
+Q12: Assign a number and calcuate the factorial of number ? //done
+Q13: Assign a number and calcuate the factor of the number ? //done 
