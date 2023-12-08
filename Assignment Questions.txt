@@ -67,3 +67,120 @@ Q10: Assign a number and check it is armstrong number or not ? //done
 Q11: Assign a number and check it is prime number ? //done
 Q12: Assign a number and calcuate the factorial of number ? //done
 Q13: Assign a number and calcuate the factor of the number ? //done 
+
+
+ // assignment_6
+Q1: 1 2 3 4 5 //done
+    1 2 3 4 5
+    1 2 3 4 5
+    1 2 3 4 5
+
+Q2: 1 1 1 1 1 //done
+    1 0 0 0 1
+    1 0 0 0 1
+    1 0 0 0 1
+    1 1 1 1 1
+
+Q3: 1 1 0 1 1 //done
+    1 1 0 1 1
+    0 0 0 0 0 
+    1 1 0 1 1
+    1 1 0 1 1
+
+Q4: 1 1 1 1 1 //done
+    2 2 2 2 2
+    3 3 3 3 3
+    4 4 4 4 4
+    5 5 5 5 5
+
+
+Q5: 5 4 3 2 1 //done
+    5 4 3 2 1
+    5 4 3 2 1
+    5 4 3 2 1
+    5 4 3 2 1 
+
+Q6: *
+    **
+    *
+    **
+    ***
+
+Q7: 1 //done
+    22
+    333
+    4444
+    55555
+
+Q8: 54321 //done
+    4321
+    321
+    21
+    1
+
+Q9: 1
+    21
+    321
+    4321
+    54321
+
+54321
+5432
+543
+54
+5
+
+1
+23
+456
+78910
+
+1
+10
+101
+1010
+10101
+
+11111
+2222
+333
+44
+5
+
+5
+54
+543
+5432
+54321
+
+1
+00
+111
+0000
+11111
+
+[9:13 pm, 02/12/2023] Sanoj Amat (Prognoze): 
+
+* * * * *
+*        *
+*        *
+*        *
+* * * * *
+
+1 1 1 1 1
+1          1
+1          1
+1          1
+1 1 1 1 1
+
+A
+BB
+CCC
+DDDD
+EEEEE
+
+ABCDE
+ABCD
+ABC
+AB
+A
